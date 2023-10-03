@@ -250,7 +250,7 @@ h1 {
 .titulo2 {
 	display: inline-block;
 	font-family: "Cooper Black";
-	font-size: calc(3.0rem + 0.5vw) !important;
+	font-size: calc(2.0rem + 0.5vw) !important;
 	background-color: #fff;
 }
 
@@ -319,5 +319,11 @@ a:link, a:visited, a:hover{
 	100% {
 		background-position-x: 1000px;
 	}
+}
+
+.perfil {
+
+width: 40%;
+height: auto;
 }
 
