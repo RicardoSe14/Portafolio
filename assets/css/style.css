@@ -226,6 +226,15 @@ header {
 	background-size: cover;
 }
 
+.card25{
+	background-image: url(../img/tarjeta25.png);
+	background-size: cover;
+}
+
+.card26{
+	background-image: url(../img/tarjeta26.png);
+	background-size: cover;
+}
 
 
 footer {
