@@ -246,6 +246,11 @@ header {
 	background-size: cover;
 }
 
+.card29{
+	background-image: url(../img/tarjeta29.png);
+	background-size: cover;
+}
+
 footer {
   background-color: #131212 !important;
 }
@@ -344,4 +349,6 @@ a:link, a:visited, a:hover{
 width: 40%;
 height: auto;
 }
+
+
 
