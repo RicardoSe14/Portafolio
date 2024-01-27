@@ -251,6 +251,11 @@ header {
 	background-size: cover;
 }
 
+.card30{
+	background-image: url(../img/tarjeta30.png);
+	background-size: cover;
+}
+
 footer {
   background-color: #131212 !important;
 }
