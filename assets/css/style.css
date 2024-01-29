@@ -261,6 +261,16 @@ header {
 	background-size: cover;
 }
 
+.card32{
+	background-image: url(../img/tarjeta32.png);
+	background-size: cover;
+}
+
+.card33{
+	background-image: url(../img/tarjeta33.png);
+	background-size: cover;
+}
+
 footer {
   background-color: #131212 !important;
 }
